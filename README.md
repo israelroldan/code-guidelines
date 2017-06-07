@@ -2,6 +2,7 @@
   <a href="README.md"><img alt="English (US)" title="English (US)" src="https://raw.githubusercontent.com/sencha/flags/master/png/256/US.png" height="18"></a>
   <a href="ja/README.md"><img alt="Japanese" title="Japanese" src="https://raw.githubusercontent.com/sencha/flags/master/png/256/JP.png" height="18"></a>
 </p>
+
 # Sencha's Guide to JavaScript Style and Best Practices
 
 The following document contains a series of best practices and recommendations for building enterprise web applications 
